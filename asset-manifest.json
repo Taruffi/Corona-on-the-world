@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Taruffi/Corona-on-the-world/static/css/main.73771095.chunk.css",
+    "main.js": "/Taruffi/Corona-on-the-world/static/js/main.b8f9bd4d.chunk.js",
+    "main.js.map": "/Taruffi/Corona-on-the-world/static/js/main.b8f9bd4d.chunk.js.map",
+    "runtime-main.js": "/Taruffi/Corona-on-the-world/static/js/runtime-main.4e9dbf35.js",
+    "runtime-main.js.map": "/Taruffi/Corona-on-the-world/static/js/runtime-main.4e9dbf35.js.map",
+    "static/js/2.8c1a23c5.chunk.js": "/Taruffi/Corona-on-the-world/static/js/2.8c1a23c5.chunk.js",
+    "static/js/2.8c1a23c5.chunk.js.map": "/Taruffi/Corona-on-the-world/static/js/2.8c1a23c5.chunk.js.map",
+    "index.html": "/Taruffi/Corona-on-the-world/index.html",
+    "precache-manifest.a58273646929e69f55aa5d8c48cf5329.js": "/Taruffi/Corona-on-the-world/precache-manifest.a58273646929e69f55aa5d8c48cf5329.js",
+    "service-worker.js": "/Taruffi/Corona-on-the-world/service-worker.js",
+    "static/css/main.73771095.chunk.css.map": "/Taruffi/Corona-on-the-world/static/css/main.73771095.chunk.css.map",
+    "static/js/2.8c1a23c5.chunk.js.LICENSE.txt": "/Taruffi/Corona-on-the-world/static/js/2.8c1a23c5.chunk.js.LICENSE.txt",
+    "static/media/image2.png": "/Taruffi/Corona-on-the-world/static/media/image2.8e9ec67e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9dbf35.js",
+    "static/js/2.8c1a23c5.chunk.js",
+    "static/css/main.73771095.chunk.css",
+    "static/js/main.b8f9bd4d.chunk.js"
+  ]
+}
