@@ -1,10 +1,9 @@
 # Corona on the world
 this application provide in real time the numbers of People infected, recovered and dead by COVID-19 around the world.
 Using the John Hopkins University API
-<p align="center">
-   <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world%2F">
-</p>
-<h1 align="center">
+
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world%2F)](https://taruffi.github.io/Corona-on-the-world/)   
+<h1 align="left">
 <img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/corona-on-the-world?style=flat-square">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/taruffi/Corona-on-the-world?style=flat-square">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/taruffi/Corona-on-the-world?style=flat-square">
@@ -31,7 +30,7 @@ This project was developed with the following technologies:
 To run the app, you will need:
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/) v12.13.1 or higher
-* [npm](https://www.npmjs.com/)
+* [npm](https://www.npmjs.com/) 
 
 
 
@@ -49,9 +48,6 @@ npm install
 npm start
 
 ```
-
-
-
 
 
 ## :page_facing_up: License
