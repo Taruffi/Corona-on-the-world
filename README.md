@@ -3,8 +3,8 @@ this application provide in real time the numbers of People infected, recovered 
 Using the [COVID-19 API] (https://github.com/mathdroid/covid-19-api)
 
 ## Core Dependencies
-- [Axios] (https://github.com/axios/axios)
-- [Chart.js] (https://www.chartjs.org/)
+ [Axios] (https://github.com/axios/axios)
+ [Chart.js] (https://www.chartjs.org/)
 
 ## Functionalities
 - Hide and Apper the register form
