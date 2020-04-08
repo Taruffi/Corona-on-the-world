@@ -4,14 +4,14 @@ Using the John Hopkins University API
 
 <h1 align="center">
  <a href="https://taruffi.github.io/Corona-on-the-world" target="_blank">
-<img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world">
+<img alt="Website" src="https://img.shields.io/badge/Website-Online-brightgreen?style=for-the-badge&logo=appveyor">
 </a>
 </h1>
    
 <h2 align="center">
  <img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/corona-on-the-world?style=flat-square">
  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Taruffi/Corona-on-the-world">
- <img alt="Language count" src="https://img.shields.io/github/languages/count/Taruffi/Corona-on-the-world?style=flat-square">
+ <img alt="Language count" src="https://img.shields.io/github/languages/count/Taruffi/Corona-on-the-world">
  
  <a href="https://www.linkedin.com/in/igor-taruffi/" target="_blank">
   <img alt="Linkedln" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
