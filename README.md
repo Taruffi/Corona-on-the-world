@@ -1,9 +1,59 @@
 # Corona on the world
 this application provide in real time the numbers of People infected, recovered and dead by COVID-19 around the world.
 Using the John Hopkins University API
+<p align="center">
+   <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world%2F">
+</p>
+<h1 align="center">
+<img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/corona-on-the-world?style=flat-square">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/taruffi/Corona-on-the-world?style=flat-square">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/taruffi/Corona-on-the-world?style=flat-square">
+<img alt="Website" src="https://img.shields.io/website?color=green&down_color=blue&down_message=Taruffi&label=Linkedln&style=flat-square&up_color=blue&up_message=Taruffi&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-taruffi%2F">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Taruffi?label=Taruffi&style=social">
+</h1>
 
-## Core Dependencies
- * [React.js](https://reactjs.org/)
+
+
+## :computer: Built With
+This project was developed with the following technologies:
+
+ * [React JS](https://reactjs.org/)
  * [Axios](https://github.com/axios/axios/)
- * [Chart.js](https://www.chartjs.org/)
+ * [Chart JS](https://www.chartjs.org/)
  * [API](https://github.com/mathdroid/covid-19-api/)
+ 
+ 
+ 
+## :ok: Getting Started
+
+### Requirements
+
+To run the app, you will need:
+* [Git](https://git-scm.com)
+* [Node.js](https://nodejs.org/) v12.13.1 or higher
+* [npm](https://www.npmjs.com/)
+
+
+
+```bash
+# to clone the repository
+git clone https://github.com/Taruffi/Corona-on-the-world.git
+
+#go into the project folder 
+cd corona-on-the-world
+
+#install the node_modules dependencies
+npm install 
+
+# run the app
+npm start
+
+```
+
+
+
+
+
+## :page_facing_up: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/Taruffi/Corona-on-the-world/blob/master/LICENSE) for more information
