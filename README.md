@@ -1,6 +1,6 @@
 # Corona on the world
 this application provide in real time the numbers of People infected, recovered and dead by COVID-19 around the world.
-Using the [John Hopkins University API](https://github.com/mathdroid/covid-19-api/)
+Using the John Hopkins University API
 
 ## Core Dependencies
  * [React.js](https://reactjs.org/)
