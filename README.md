@@ -3,11 +3,11 @@ this application provide in real time the numbers of People infected, recovered 
 Using the John Hopkins University API
 
 <p align="center">
- <a href="https://taruffi.github.io/Corona-on-the-world" target="_blank">
  
- <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world">
-
+ <a href="https://taruffi.github.io/Corona-on-the-world" target="_blank">
+  <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world">
 </a>
+
 </p>
    
 <h1 align="center">
