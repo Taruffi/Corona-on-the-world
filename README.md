@@ -2,13 +2,34 @@
 this application provide in real time the numbers of People infected, recovered and dead by COVID-19 around the world.
 Using the John Hopkins University API
 
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world%2F)](https://taruffi.github.io/Corona-on-the-world/)   
-<h1 align="left">
+<p align="center">
+ <a href="https://taruffi.github.io/Corona-on-the-world" target="_blank">
+ 
+ <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Ftaruffi.github.io%2FCorona-on-the-world">
+
+</a>
+</p>
+   
+<h1 align="center">
+ 
 <img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/corona-on-the-world?style=flat-square">
+
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/taruffi/Corona-on-the-world?style=flat-square">
+
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/taruffi/Corona-on-the-world?style=flat-square">
-<img alt="Website" src="https://img.shields.io/website?color=green&down_color=blue&down_message=Taruffi&label=Linkedln&style=flat-square&up_color=blue&up_message=Taruffi&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-taruffi%2F">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Taruffi?label=Taruffi&style=social">
+
+<a href="https://www.linkedin.com/in/igor-taruffi/" target="_blank">
+ <img alt="Linkedln" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+</a>
+
+<a href="https://github.com/Taruffi" target="_blank" >
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Taruffi?label=Taruffi&style=social">
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5581998054079" target="_blank" >
+ <img alt="whatsapp - Igor Taruffi" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
+</a>
+
 </h1>
 
 
