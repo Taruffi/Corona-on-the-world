@@ -13,8 +13,9 @@ Using the John Hopkins University API
 <h1 align="center">
  
 <img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/corona-on-the-world?style=flat-square">
+
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/taruffi/Corona-on-the-world?style=flat-square">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/taruffi/Corona-on-the-world?style=flat-square">
+
 
 <a href="https://www.linkedin.com/in/igor-taruffi/" target="_blank">
 <img alt="Linkedln" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
