@@ -9,17 +9,21 @@ Using the John Hopkins University API
 </h1>
    
 <h2 align="center">
- <img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/corona-on-the-world?style=flat-square">
- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Taruffi/Corona-on-the-world">
- <img alt="Language count" src="https://img.shields.io/github/languages/count/Taruffi/Corona-on-the-world">
+<img alt="GitHub" src="https://img.shields.io/github/license/Taruffi/Corona-on-the-world?style=flat-square">
+ 
+ <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Taruffi/Corona-on-the-world?style=flat-square">
+ 
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Taruffi/Corona-on-the-world?style=flat-square">
  
  <a href="https://www.linkedin.com/in/igor-taruffi/" target="_blank">
   <img alt="Linkedln" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
  </a>
- <a href="https://github.com/Taruffi" target="_blank" >
+
+<a href="https://github.com/Taruffi" target="_blank" >
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Taruffi?label=Taruffi&style=social">
  </a>
- <a href="https://api.whatsapp.com/send?phone=5581998054079" target="_blank" >
+
+<a href="https://api.whatsapp.com/send?phone=5581998054079" target="_blank" >
   <img alt="whatsapp - Igor Taruffi" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
  </a>
 </h2>
