@@ -59,7 +59,7 @@ git clone https://github.com/Taruffi/Corona-on-the-world.git
 cd corona-on-the-world
 
 #install the node_modules dependencies
-yarn
+npm install
 
 # run the app
 npm start
